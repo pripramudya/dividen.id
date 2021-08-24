@@ -23,29 +23,21 @@ Menunggu adalah pekerjaan yang membosankan, kan?
 - Investasi dividen membantu Kamu untuk **berpikir jangka panjang** dan mencegah kesalahan dikarenakan pergerakan harga pasar yang sedang terkoreksi.
 - Dividen bisa menjadi salah satu sumber **pendapatan saat** Kamu **pensiun** nantinya.
 - Emiten yang rutin membagikan dividen sebagian besar merupakan perusahaan yang memiliki **GCG *(Good Corporate Governance)* yang baik**. Selain itu, bisa meminimalisir fraud atau pemalsuan laporan keuangan karena untuk bisa membagikan dividen, maka perusahaan harus memiliki uang kas (bentuknya nyata dan tidak bisa dipalsukan).
-- Mempermudah Kamu dalam memilih dan menyeleksi emiten yang sehat dan berkualitas.
+- **Mempermudah** Kamu dalam memilih dan **menyeleksi emiten** yang sehat dan berkualitas.
 
 ## Investasi dividen untuk siapa?
 
-Ya betul, tentu saja untuk Kamu yang memiliki rencana investasi jangka panjang. 
+Ya betul, tentu saja untuk Kamu yang memiliki rencana **investasi jangka panjang**. 
 
-Yang memilki kesabaran tingkat tinggi dan bersedia untuk menahan imbalan saat ini demi mendapatkan sesuatu yang lebih besar di masa mendatang.
-
-Dividends are a Major Source of Long-term Market Returns
-
-Dividend Growth Stocks Have Outperformed the Stock Market over Time
-
-Dividend Growth Stocks can Help Ensure a Safe Retirement no Matter How Long You Live
-
-Embracing a Dividend Growth Investor’s Mindset can Help You Avoid the Biggest Cause of Market Underperformance
-
-Being a Dividend Growth Investor can Help You Earn a Return No Matter What Stock Prices are Doing
+Yang memiliki kesabaran tingkat tinggi dan bersedia untuk menahan imbalan saat ini demi mendapatkan sesuatu yang lebih besar di masa mendatang.
 
 ## Mulai
 
 Untuk Kamu yang benar-benar masih pemula tentang investasi, bisa dimulai dari artikel berikut:
 
-- Prinsip dasar investasi dan literasi finansial
+- Prinsip dasar investasi dan literasi finansial.
 - Apa itu dividen? Kenapa pilih investasi dividen?
 
 Pembahasan detail tentang investasi dividen bisa Kamu baca ini:
+
+- Emiten terbaik untuk investasi dividen.
