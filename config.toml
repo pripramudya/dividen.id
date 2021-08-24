@@ -1,5 +1,5 @@
 baseURL = "https://dividen.id"
-title = "Portal Edukasi Investasi Dividen"
+title = "#dividen.id"
 author = "Pribadi Pramudya"
 languageCode = "en-US"
 disableKinds = ["taxonomy"]
@@ -11,5 +11,5 @@ enableRobotsTXT = true
   tags = "/blog/:slug"
 
 [params]
-  description = "Semua tentang investasi dividen"
+  description = "Semua tentang srategi investasi dividen"
   title = "Strategi Investasi Dividen"
